@@ -1,4 +1,5 @@
-sudadera
+
+cuaderno
 balancin
 tijeras
 boligrafo
